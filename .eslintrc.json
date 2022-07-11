@@ -1,5 +1,5 @@
 {
-  "extends": ["ntext/babel", 
+  "extends": ["next/babel", 
     "next/core-web-vitals"
   ]
 }
